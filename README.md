@@ -2,19 +2,19 @@
 
 ![AI Engineer](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
 
-Welcome to my GitHub repository! I am **Mahmoud Nabil Alshazly**, a passionate AI Engineer from Egypt, specializing in **Large Language Models (LLMs), Advanced Computer Vision, and Deep Learning**. This repository serves as a showcase of my projects, research, and contributions to the field of Artificial Intelligence.
+Welcome to my GitHub repository! I am **Mahmoud Nabil Alshazly**, a passionate AI Engineer from Egypt, specialising in **Large Language Models (LLMs), Advanced Computer Vision, and Deep Learning**. This repository serves as a showcase of my projects, research, and contributions to the field of Artificial Intelligence.
 
 ## 🚀 About Me
 - **Name:** Mahmoud Nabil Alshazly
 - **Location:** Egypt
-- **Expertise:** AI Engineering, LLMs, Computer Vision, Deep Learning, Machine Learning, Web and Mobile Applications
+- **Expertise:** AI Engineering, LLMs, Computer Vision, Deep Learning, Machine Learning, and backend with Node.js 
 - **Current Focus:** Working on LLM projects and exploring advanced techniques in AI and Computer Vision.
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🛠️ Skills
 - **Programming Languages:** Python, JavaScript, PHP
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, OpenCV, FastAPI, YOLOv8
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, OpenCV, FastAPI, YOLO
 - **Tools:** Docker, Git, Jupyter, VSCode, Postman
 - **Cloud Platforms:** AWS, Google Cloud, Azure
 - **Specialization:** AI Model Development, Image Recognition, OCR, NLP, Model Optimization, Cloud Deployment
@@ -35,19 +35,15 @@ Welcome to my GitHub repository! I am **Mahmoud Nabil Alshazly**, a passionate A
 - **Demo:** ![OCR Processing]
 
 ## 📈 Experience
-- **AI Engineer at [Your Company/Organization Name]**
-  - Developed and deployed AI models for various industrial applications, including image recognition, natural language processing, and predictive analytics.
-  - Led a team of engineers to optimize existing AI solutions, resulting in a 30% improvement in model performance.
+- **AI Engineer at sourcya**
+  - Developed and deployed AI models for various industrial applications, including image recognition, natural language processing, fine-tuning LLM, building MCP services, RAG systems and predictive analytics.
+  - Led a team of engineers to optimise existing AI solutions, resulting in a 30% improvement in model performance.
 
-- **AI Research Intern at [Another Organization/Institution]**
-  - Conducted research on advanced machine learning algorithms and published findings in [Relevant Journals/Conferences].
+- **AI Research Intern at AAST **
+  - Conducted research on advanced machine learning algorithms and published findings.
   - Collaborated with a cross-functional team to develop AI-powered solutions for real-world challenges.
 
 ## 🌐 How to Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/mahmoud-al-shazly-191018217/
 - **Email:** mahmoudalshazly90@gmail.com
   
-
-
-## 📝 License
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
